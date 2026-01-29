@@ -1,4 +1,4 @@
-# Mercury
+# Raspberry Pi 4 Motor Control
 
 This Python script is designed to test the motor functions of a Raspberry Pi 4 connected to MG996R 360-degree servo motors and various stepper motors using an A4988 driver.
 
